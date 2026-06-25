@@ -9,3 +9,4 @@ mlruns/
 data/raw/
 *.pt
 *.pth
+.idea/
